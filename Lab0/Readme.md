@@ -573,4 +573,16 @@ You should be able to see both of your nodes connected through the topic.
 
 1. Link to the folder of a ROS package that contains a publisher and a subscriber: [link](./src/my_package/my_package)
 2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
+    1. Does `self.publisher_ = self.create_publisher(String, 'hri_topic', 10)` create a new topic automatically?
+    2. Can two nodes publish to the same topic?
+    3. Can one node publish to or subscribe to two or more topics?
+    4. I'm curious to learn about other message types.
+    5. I'm a little confused by:
+        ```
+        rclpy.spin(hri_subscriber)
+        hri_subscriber.destroy_node()
+        rclpy.shutdown()
+        ```
+        It seems that the program will stay on line `rclpy.spin(hri_subscriber)` when the nodes are running. So when does `hri_subscriber.destroy_node()` run? When we Control + C the terminal? I thought that just kills the terminal.
 3. Feedback on the bootcamp: What was easy and what was difficult to understand?
+It was a little bit to know which parts to skip and which parts to follow. I didn't really understand that we're going to use an online version and didn't have to install ROS on our laptops. The other instructions are clear, especially the explanations of the code.
