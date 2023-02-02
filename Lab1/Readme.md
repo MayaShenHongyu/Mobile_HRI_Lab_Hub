@@ -100,7 +100,7 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 **Use case 5**
 * Setting: In classroom at school, during exams
 * Player: Students and invigilator
-* Activity: The robot patrols the classroom while an invigilator could see the visuals remotely. The robot has automatic detection for behaviors like talking to each other, checking the phone, etc. and alerts the invigilator. One invigilator could be responsible for multiple classrooms since he/she can look at multiple screens together.
+* Activity: The robot patrols the classroom while an invigilator could see the visuals remotely. The robot has automatic detection for behaviors like talking to each other, checking the phone, etc. and alerts the invigilator. The invigilator can sit at the front and keep an eye on the video stream while doing his/her own things.
 * Goal: The invigilator's goal is to surveil the students to make sure there's no bad behaviors. The student's goal is to take the exam without disturbance.
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch five storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the CloneBot and the other characters in the scene. 
