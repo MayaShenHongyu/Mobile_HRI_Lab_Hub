@@ -74,34 +74,34 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
 **Use case 1**
-Setting: In schools
-Player: Visitors, new students, and delivery persons who are not familiar with the campus
-Activity: The player says the destination they want to go, and the robot guides him/her to it.
-Goal: The player's goal is to get to the right place on time.
+* Setting: In schools
+* Player: Visitors, new students, and delivery persons who are not familiar with the campus
+* Activity: The player says the destination they want to go, and the robot guides him/her to it.
+* Goal: The player's goal is to get to the right place on time.
 
 **Use case 2**
-Setting: At home
-Player: Pet and its owner who is away from home
-Activity: The owner controls the robot remotely to play with his/her pet. The owner can also see visuals through the camera.
-Goal: The owner's goal is to 1) keep their pet company while away and 2) check on their pet in case they miss them. The pet's goal is to have a good time with the robot.
+* Setting: At home
+* Player: Pet and its owner who is away from home
+* Activity: The owner controls the robot remotely to play with his/her pet. The owner can also see visuals through the camera.
+* Goal: The owner's goal is to 1) keep their pet company while away and 2) check on their pet in case they miss them. The pet's goal is to have a good time with the robot.
 
 **Use case 3**
-Setting: Places that is not possible or safe human to be at: caves, outer space, ocean, etc.
-Player: Exploers and scientists
-Activity: The player controls the robot to enter the place of interest in order to take a look of the place.
-Goal: To get a better understanding of the space of interest through the visuals.
+* Setting: Places that is not possible or safe human to be at: caves, outer space, ocean, etc.
+* Player: Exploers and scientists
+* Activity: The player controls the robot to enter the place of interest in order to take a look of the place.
+* Goal: To get a better understanding of the space of interest through the visuals.
 
 **Use case 4**
-Setting: In restaurants
-Player: Customers and restaurant onwer/employees
-Activity: The robot acts as waiters: delivers plates to the customers, take empty plates from customers, brings customers to their seats, etc.
-Goal: Customer's goal is to get good service without having to wait. Restaurant owner/employees' goal is to provide good service without having to input too much human resource.
+* Setting: In restaurants
+* Player: Customers and restaurant onwer/employees
+* Activity: The robot acts as waiters: delivers plates to the customers, take empty plates from customers, brings customers to their seats, etc.
+* Goal: Customer's goal is to get good service without having to wait. Restaurant owner/employees' goal is to provide good service without having to input too much human resource.
 
 **Use case 5**
-Setting: In classroom at school, during exams
-Player: Students and invigilator
-Activity: The robot patrols the classroom while an invigilator could see the visuals remotely. The robot has automatic detection for behaviors like talking to each other, checking the phone, etc. and alerts the invigilator. One invigilator could be responsible for multiple classrooms since he/she can look at multiple screens together.
-Goal: The invigilator's goal is to surveil the students to make sure there's no bad behaviors. The student's goal is to take the exam without disturbance.
+* Setting: In classroom at school, during exams
+* Player: Students and invigilator
+* Activity: The robot patrols the classroom while an invigilator could see the visuals remotely. The robot has automatic detection for behaviors like talking to each other, checking the phone, etc. and alerts the invigilator. One invigilator could be responsible for multiple classrooms since he/she can look at multiple screens together.
+* Goal: The invigilator's goal is to surveil the students to make sure there's no bad behaviors. The student's goal is to take the exam without disturbance.
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch five storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the CloneBot and the other characters in the scene. 
 
