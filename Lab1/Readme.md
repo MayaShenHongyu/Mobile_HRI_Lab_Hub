@@ -1,5 +1,5 @@
 # Interaction First
-\*\***List the names and NetID for your partners here.**\*\*
+\*\***Hongyu Shen hs692, Sylvie Chen xc455, Haohua Liu hl766**\*\*
 
 In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
 
@@ -74,39 +74,42 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
 **Use case 1**
-* Setting: In schools
-* Player: Visitors, new students, and delivery persons who are not familiar with the campus
-* Activity: The player says the destination they want to go, and the robot guides him/her to it.
-* Goal: The player's goal is to get to the right place on time.
-
-**Use case 2**
 * Setting: At home
 * Player: Pet and its owner who is away from home
 * Activity: The owner controls the robot remotely to play with his/her pet. The owner can also see visuals through the camera.
 * Goal: The owner's goal is to 1) keep their pet company while away and 2) check on their pet in case they miss them. The pet's goal is to have a good time with the robot.
 
+**Use case 2**
+* Setting: In schools
+* Player: Visitors, new students, and delivery persons who are not familiar with the campus
+* Activity: The player says the destination they want to go, and the robot guides him/her to it.
+* Goal: The player's goal is to get to the right place on time.
+
 **Use case 3**
-* Setting: Places that is not possible or safe human to be at: caves, outer space, ocean, etc.
-* Player: Exploers and scientists
-* Activity: The player controls the robot to enter the place of interest in order to take a look of the place.
-* Goal: To get a better understanding of the space of interest through the visuals.
-
-**Use case 4**
-* Setting: In restaurants
-* Player: Customers and restaurant onwer/employees
-* Activity: The robot acts as waiters: delivers plates to the customers, take empty plates from customers, brings customers to their seats, etc.
-* Goal: Customer's goal is to get good service without having to wait. Restaurant owner/employees' goal is to provide good service without having to input too much human resource.
-
-**Use case 5**
 * Setting: In classroom at school, during exams
 * Player: Students and invigilator
 * Activity: The robot patrols the classroom while an invigilator could see the visuals remotely. The robot has automatic detection for behaviors like talking to each other, checking the phone, etc. and alerts the invigilator. The invigilator can sit at the front and keep an eye on the video stream while doing his/her own things.
 * Goal: The invigilator's goal is to surveil the students to make sure there's no bad behaviors. The student's goal is to take the exam without disturbance.
 
+**Use case 4**
+* Setting: Places that is not possible or safe human to be at: caves, outer space, ocean, etc.
+* Player: Exploers and scientists
+* Activity: The player controls the robot to enter the place of interest in order to take a look of the place.
+* Goal: To get a better understanding of the space of interest through the visuals.
+
+**Use case 5**
+* Setting: At home
+* Player: Homeowners who do not want to or cannot move
+* Activity: The players control the robot to answer doors, communicate with delivery people and pick up items to them.
+* Goal: Homeowners' goal is to get items without having to move their body and accomplish simple communication tasks.
+
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch five storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the CloneBot and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
 
+Please find our storyboards and video clips here.
+
+https://docs.google.com/document/d/17_B_EzBEC6lp-5RPfNYxuCCtZvjYASexyDrNGiEbp7Q/edit?usp=sharing
 
 ## Part C. Act out the Interaction
 
@@ -114,8 +117,15 @@ Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interact
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+Yes. In usecase 3, we felt like that the robot need to be more robust in traveling through desks and stairs to supervise students in real life.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+Yes, a new idea poped out of our heads while acting out usecase 3. We imaged a usecase where the robot can act as waiters in restaurants. It can deliver plates to the customers, take empty plates from customers and bring customers to their seats, etc.
+
+**Other reflections** 
+
+During the acting, we thought it would be a great idea to add an audio sensor to the Robot to enhance its interacting ability. Many of our planned use cases benefits from the camera for providing visual feedback. Adding an audio sensor could take the interations to a next level. Besides, it was really fun playing with the extra degree of freedom provided by the motor on the top.
 
 ## Your Weekly Dose of ROS
 
