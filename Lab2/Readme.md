@@ -87,9 +87,11 @@ Now, hange the goal within the same setting, and update the interaction with the
 ## Part E. Record
 
 \*\***Take videos of your prototyped interaction.**\*\*
+
 https://drive.google.com/drive/folders/1eCNIp7itB6OlconOHZXFV5XrsHIGKJov?usp=sharing
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
+
 Teammates: Sylvie Chen xc455, Haohua Liu hl766, Hongyu Shen hs692
 
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
@@ -98,6 +100,7 @@ Be generous in acknowledging their contributions! And also recognizing any other
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
 **Storyboard**
+
 ![storyboard](https://drive.google.com/file/d/1nqlEvhtAN5koP-1UdFDJBI_ZFdW8d6N0/view?usp=share_link)
 
 Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.
