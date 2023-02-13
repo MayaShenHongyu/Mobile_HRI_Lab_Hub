@@ -126,8 +126,7 @@ Be generous in acknowledging their contributions! And also recognizing any other
 
 Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.
 
-### Again, deliverables for this lab are: ![Uploading F9CD1CA4-5957-4DE2-A6C0-1EAE92446184_1_201_a.jpeg…]()
-
+### Again, deliverables for this lab are:
 
 0. Fill in the questions along the way! 
 1. 3 photos of costumed robots
