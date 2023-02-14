@@ -44,6 +44,13 @@ Labs are due on Tuesdays before class. Make sure this page is linked to on your 
 ## Part A. Provide Feedback
 You and your teammates will be assigned lab 1 submissions from one other group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear.
 
+https://github.com/jamie-cao/Mobile_HRI_Lab_Hub/blob/main/Lab1/jc2974_Readme.md
+
+1. I like their special effect of the red fire in the video! I saw a fireman who needed to find people trapped in a building on fire (goal) and he asked the robot. The robot guides the fireman successfully to find a dying person. Suggestion & Question: The robot led the fireman to people in a building on fire, but I wonder how the robot actually found the people, and does the robot actually finds the people faster than the fireman? Do the robot find people first and then signal the fireman to come, or does the robot actually lead the way?
+2. I guessed the goal of the character is to write songs with more creative beats/resources. The person asked the robot to help him write a good song, but magically the robot wrote a song. Not sure how the robot achieved that? Also, if the robot wrote the song, would the person still own the song?
+3. I saw a robot carrying an iphone around showcasing it to people. The person can ask the robot what the iphone is and the robot answers. It seems like the robot wants to advertise the iphone and sell it? It would be more clear if the robot actually has more interactions with the person in the video!
+
+
 **Summarize feedback your feedback here.**
 
 ## Part B. Site the interaction
@@ -60,7 +67,12 @@ The intended interaction of the robot takes place in households that have pets. 
 
 \*\***Document the activities being considered.**\*\*
 
+The activities in the scene include the dog barking, making noises and running in the house. The robot will participate in watching the dog for its owner through the camera as well as playing with the dog.
+
 \*\***What issues or opportunties arise from the site and activities?**\*\*
+
+The issue the robot is trying to solve is to keep the dog company while the owner is away. There is plenty of room for the robot to move around and do different types of interactions such as dancing. However, the robot will also need to take the risk of being hit or accidentally harmed by the dog and other things in the environment.
+
 
 ## Part C. Costume the robot
 
@@ -72,13 +84,23 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 
 \*\***Include sketches of what your robot might look like here.**\*\*
 
+![771676352574_ pic_hd](https://user-images.githubusercontent.com/31870235/218650515-a9dae8bc-28e7-4f7b-acff-f1e74880d002.jpg)
+![781676352578_ pic_hd](https://user-images.githubusercontent.com/31870235/218650525-85f2e437-f8f1-405f-aeae-43258b4ac455.jpg)
+![791676352583_ pic_hd](https://user-images.githubusercontent.com/31870235/218650539-e6786e22-a805-4fee-9a10-d64ab1eef193.jpg)
+
+
 \*\***Include photos of your custumed robot here.**\*\*
+
+We picked "dog companion" to custume:
 
 ![486DA024-3644-4E86-9894-3BF43297956E_1_105_c](https://user-images.githubusercontent.com/31870235/218568416-06786087-8d5b-47d4-ba40-f93aa83722cc.jpeg)
 ![82759B93-BB06-4089-AD89-16EA56AE9440_1_105_c](https://user-images.githubusercontent.com/31870235/218568441-81a65125-6e0a-4f45-b6a8-6cdd8eab3179.jpeg)
 
 
 \*\***What concerns or opportunitities are influencing the way you've designed the robot to look?**\*\*
+
+Our robot is a pet companion, so the number one goal for us was to make it fun to play with. In order to induce pets’ curiosity and to make them comfortable with the robot’s presence, we decided to make the robot animal-like, in particular, a snail. We cut out a cardboard plane and folded it to create a shell around the robot, with its front plane being the face of the animal. We cut out the mouth area for the camera and stuck two round shaped cardboard pieces onto the plane as eyes. We also made a pink bow using gauze fabric to make the robot more appealing.
+
 
 ## Part D. Wizard the Robot
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the robot while someone interacts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
