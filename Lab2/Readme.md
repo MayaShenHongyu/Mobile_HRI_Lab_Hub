@@ -1,5 +1,5 @@
 # Then Prototype the Robot
-**List the names and NetID for your partners here.**
+**Hongyu Shen hs692, Sylvie Chen xc455, Haohua Liu hl766**
 
 This week's lab is a continuation of the previous week. We explore the role of both *siting*--the location and activity--in interaction, as well as the *form and appearance* of the robot in the interaction.
 
