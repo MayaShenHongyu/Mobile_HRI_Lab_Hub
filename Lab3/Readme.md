@@ -1,6 +1,8 @@
 # Make the Robot Move
 **Hongyu Shen hs692, Sylvie Chen xc455, Haohua Liu hl766, Tsung-Yin Hsieh th542, Jonathan Tan jmt362**
 
+*We asked the TAs and they said we could do a team of 5.*
+
 
 In this week's lab, you will lay the foundations for your mobile robot. We will control commercially available hoverboards (Dr. Ju bought these on eBay) with ODrive motor controllers. This week's lab can be challenging. Be prepared to get your hands dirty.
 
