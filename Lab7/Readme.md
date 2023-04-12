@@ -29,6 +29,7 @@ If you haven't finished your robot chassis, try to wrap it up in this lab.
 
 <img width="998" alt="Screen Shot 2023-04-11 at 10 58 44 AM" src="https://user-images.githubusercontent.com/6706384/231203860-5142b532-10e1-4645-b006-e33d88dad93d.png">
 
+
 5. A video sketch of your designed interaction
 6. Videos trying out elicited verbal interaction
 
@@ -111,12 +112,28 @@ if wiggle_button_pressed:
 
 Based on your final project proposal, sketch out a simple interaction scenario where your robot is interacting (verbally and/or physically) with at least one person. The robot must interact with at least one person. 
 1. Scout out the location for the interaction. What are the features and existing activities in the space?
-2. Stage the interaction you expect with your robot to go. (Remember to take a video.)
-3. Figure out 2-3 interaction triggers that the Wizard will respond to for the interaction. Are there things that need to be done to make it eaiser to spot these triggers? For example, one trigger might be if a person is looking at the robot. Another is if someone is gesturing at the robot.
-4. Figure out 2-3 interaction routines that the robot should use for the interaction. For example, maybe the robot  backs up slightly before going forward to signal that its going to go, makes angry noises when it is blocked, or wiggles side to side to indicate confusion
+
+
+3. Stage the interaction you expect with your robot to go. (Remember to take a video.)
+
+
+5. Figure out 2-3 interaction triggers that the Wizard will respond to for the interaction. Are there things that need to be done to make it eaiser to spot these triggers? For example, one trigger might be if a person is looking at the robot. Another is if someone is gesturing at the robot.
+
+Interaction Trigger:
+1)When a person approaches, if the robot's back is facing the person, the robot should turn around and face the person with its front. We should also label the front and back of the robot to make it clearer for the users.
+2)
+3)
+
+5. Figure out 2-3 interaction routines that the robot should use for the interaction. For example, maybe the robot  backs up slightly before going forward to signal that its going to go, makes angry noises when it is blocked, or wiggles side to side to indicate confusion
+
+Interaction Routines:
+1)When the robot makes movement such as moving forward/backward, the robot's movements are sudden and makes a loud noice. We desire the robot to speak a message like "Be careful, I'm moving" before the robot moves.
 
 5. Try unscripted interaction with at least 5 people. (Again, remember to take a video; this means you have to get their permission to record them, but not tell them what to do. Please don't shoot creeper videos.) That is, don't tell the people involved in the interaction what to do. Use WoZ to enable the people to see how the interaction would unfold if the robot were autonomous. 
 6. Reflection on what you learned about the interaction; revise the interaction sketch with your new insights.
+
+1) the back should be labeled as back on the robot so people can better perceive how to interact.
+2) The robot's voice breaks a little too easy. We should find a way to fix it.
 
 Be mindful of the others around you. Be safe.
 
